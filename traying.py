@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-pip install streamlit
-pip install pandas
-pip install numpy
-pip install sastrawi
-pip install nltk
-pip install sklearn
-
 import streamlit as st
 import pandas as pd
 import numpy as np
